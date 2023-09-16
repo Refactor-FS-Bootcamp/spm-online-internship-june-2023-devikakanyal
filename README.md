@@ -1,1 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11900617&assignment_repo_type=AssignmentRepo)
+CRYPTOPHILE - is an innovative cryptocurrency management and transaction application designed to make handling digital assets a breeze. Whether you're a crypto enthusiast or a newcomer to the world of cryptocurrencies, our user-friendly app offers a seamless experience for securely sending, receiving, and managing your crypto holdings. With intuitive features, top-notch security, and real-time market data, Crypto Transaction Simplified simplifies the complexities of crypto transactions, empowering users to navigate the digital financial landscape with confidence.
+Using this application sepolia ETH can be sent to any wallet around the world holding a sepolia ETH wallet with efficiency and also keeps a record of all the transactions made.
+This application is based upon web3.0 technologies used are- react , java script , solidity .
+Testing suite framework is : hardhat and test network is sepolia. 
